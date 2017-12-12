@@ -14,21 +14,21 @@ Some sort of preamble about Almond Joy Bars. Recipe is from [here](www.google.co
 
 # Ingredients
 ## Chocolate / Carob Base:
-- ½ cup coconut oil (_palm shortening would work well too, as well as butter_)
-- ½ cup almond butter (_any nut or seed butter would work, but almond is especially nice_) See Homemade Nut / Seed Butter. Use coconut butter for AIP. Here's how to make your own.
-- ¼ cup granulated sweetener or appropriate substitute (_for candida diets, xylitol and erythritol work well. 4-6 scoops stevia extract is a good alternative_)
-- 6 Tbsp cocoa (_for more health benefits, use raw cacao, or use carob for AIP_)
-- 3 Tbsp additional sweetetner (_I use vegetable glycerine, xylitol, erythritol, or any combination thereof, due to being on a candida diet, which I started a number of years ago. Use a little more if using erythritol since it isn't as sweet. You could use my DIY Truvia or 1½ scoops stevia as well_)
+- ½ cup coconut oil (palm shortening would work well too, as well as butter)
+- ½ cup almond butter (any nut or seed butter would work, but almond is especially nice) See Homemade Nut / Seed Butter. Use coconut butter for AIP. Here's how to make your own.
+- ¼ cup granulated sweetener or appropriate substitute (for candida diets, xylitol and erythritol work well. 4-6 scoops stevia extract is a good alternative)
+- 6 Tbsp cocoa (for more health benefits, use raw cacao, or use carob for AIP)
+- 3 Tbsp additional sweetetner (I use vegetable glycerine, xylitol, erythritol, or any combination thereof, due to being on a candida diet, which I started a number of years ago. Use a little more if using erythritol since it isn't as sweet. You could use my DIY Truvia or 1½ scoops stevia as well)
 - 1 tsp vanilla
 
 ## Coconut Topping:
 - 1⅔ cup unsweetened coconut flakes
-- 7 Tbsp coconut oil (_palm shortening or butter would work well too_)
-- ⅓ cup granulated sweetener (_or 2-3 scoops stevia extract powder. I use NuNaturals._)
+- 7 Tbsp coconut oil (palm shortening or butter would work well too)
+- ⅓ cup granulated sweetener (or 2-3 scoops stevia extract powder. I use NuNaturals.)
 - 1½ tsp vanilla
-- ¼ tsp additional flavoring (_optional. Almond or coconut are good choices_)
-- 2 tsp arrowroot powder (_non-gmo cornstarch may be substituted. Use 1/16 tsp of xanthan gum or glucomannan if you need to avoid these foods._)
-- Almond halves or slices (_optional_)
+- ¼ tsp additional flavoring (optional. Almond or coconut are good choices)
+- 2 tsp arrowroot powder (non-gmo cornstarch may be substituted. Use 1/16 tsp of xanthan gum or glucomannan if you need to avoid these foods.)
+- Almond halves or slices (optional)
 
 
 ---

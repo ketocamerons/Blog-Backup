@@ -17,6 +17,8 @@ root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
+favicon: favicon.ico
+
 # Feed
 feed:
   type: atom

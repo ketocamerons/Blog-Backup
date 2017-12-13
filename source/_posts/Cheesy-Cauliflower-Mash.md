@@ -8,6 +8,7 @@ tags:
 - Cheese
 - Cream
 - Butter
+
 ---
 
 This mash is easily better than mashed potatoes (in my opinion!). I've served it up to guests who've gobbled it up, and haven't realised that it's cauliflower at all. The original recipe can be found [here](https://www.ibreatheimhungry.com/better-than-potatoes-cheesy-cauliflower/), and this recipe makes ~2 cups of mash. 

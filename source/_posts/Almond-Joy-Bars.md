@@ -10,6 +10,7 @@ tags:
 - Coconut
 - Chocolate
 - Dairy Free
+
 ---
 
 Ty loves these, particularly with a bit less sweetener. I leave mine in the freezer, because they melt very easily. The recipe can be found [here](https://wholenewmom.com/recipes/healthy-chocolate-almond-joy-home-made-candy/).

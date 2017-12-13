@@ -13,7 +13,7 @@ tags:
 - Cocoa
 ---
 
-I have made these brownies several times, 
+I have made these brownies several times, and they are a hit with most chocolate-lovers. Add choc chips/choc pieces or nuts for some extra flavour. 
 
 <!--more-->
            

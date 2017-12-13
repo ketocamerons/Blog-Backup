@@ -4,11 +4,11 @@
 
 # Site
 title: Keto Camerons
-subtitle: Look at me mum, I'm a blarg! 
+subtitle: Simple keto-friendly recipes 
 description: 
-author: Em "Stop Calling Me That" Cameron
+author: Em Cameron
 language: en
-timezone:
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

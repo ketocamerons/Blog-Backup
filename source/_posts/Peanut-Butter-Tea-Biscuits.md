@@ -15,9 +15,7 @@ These are a real crowd-pleaser, and very morish. I usually make mine with peanut
 
 <!--more-->
 
-{% youtube gK0M86isNDc %}
 
-Servings: 30
 
 # Ingredients
 - 2 cups Almond Butter/Peanut Butter

@@ -40,7 +40,8 @@ These are yum, but very sweet. Adjust sweeteners to your taste. The original rec
 9. Refrigerate for another hour. The truffles must be kept refrigerated until ready to serve.
 
 
-## Nutritional information without chocolate coating:
+
+### Nutritional information without chocolate coating:
 Calories per serving: 81 
 Fat: 8.6g (Sat Fat: 5.9g) 
 Cholesterol: 20mg 

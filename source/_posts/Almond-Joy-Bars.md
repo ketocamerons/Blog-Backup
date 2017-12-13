@@ -4,10 +4,12 @@ date: 2017-12-12 21:40:34
 categories:
 - Desserts
 - Fat Bombs
+- Snacks
 tags:
 - Almond
 - Coconut
 - Chocolate
+- Dairy Free
 ---
 
 Ty loves these, particularly with a bit less sweetener. I leave mine in the freezer, because they melt very easily. The recipe can be found [here](https://wholenewmom.com/recipes/healthy-chocolate-almond-joy-home-made-candy/).
@@ -17,7 +19,7 @@ Ty loves these, particularly with a bit less sweetener. I leave mine in the free
 # Ingredients
 ## Chocolate / Carob Base:
 - 1/2 cup coconut oil (palm shortening would work well too, as well as butter)
-- 1/2 cup almond butter (any nut or seed butter would work, but almond is especially nice) See Homemade Nut / Seed Butter. Use coconut butter for AIP. Here's how to make your own.
+- 1/2 cup almond butter (any nut or seed butter would work, but almond is especially nice)
 - 1/4 cup granulated sweetener or appropriate substitute (for candida diets, xylitol and erythritol work well. 4-6 scoops stevia extract is a good alternative)
 - 6 Tbsp cocoa (for more health benefits, use raw cacao, or use carob for AIP)
 - 3 Tbsp additional sweetetner (I use vegetable glycerine, xylitol, erythritol, or any combination thereof, due to being on a candida diet, which I started a number of years ago. Use a little more if using erythritol since it isn't as sweet. You could use my DIY Truvia or 1½ scoops stevia as well)

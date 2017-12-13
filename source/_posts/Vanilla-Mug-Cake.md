@@ -3,6 +3,7 @@ title: Vanilla Mug Cake
 date: 2017-12-13 23:24:15
 categories:
 - Desserts
+- Snacks
 tags:
 - Protein Powder
 - Coconut Flour
@@ -23,6 +24,8 @@ This one's great for a quick snack at home when you're feeling like something sw
 - 1/4 cup milk of choice (I used unsweetened almond)
 - 1/4 tsp vanilla extract
 - Chocolate chips to top (optional)
+
+---
 
 ## For The Microwave Option
 1. Grease a microwave safe bowl with cooking spray and add the protein powder, baking powder, coconut flour, sweetener of choice and mix well.

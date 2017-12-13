@@ -4,6 +4,7 @@ date: 2017-12-13 23:28:34
 categories:
 - Desserts
 - Fat Bombs
+- Snacks
 tags:
 - Butter
 - Cream Cheese
@@ -26,6 +27,9 @@ This recipe is delicious, maybe just a little too much. Add whatever nuts you pr
 - 1/3 cup cocoa powder
 - Dash of salt
 - 1/4 cup walnuts, chopped (optional)
+
+
+---
 
 # Instructions
 1. Butter a 5×7-inch baking dish or pan and line with parchment or wax paper, leaving an overhang on two sides to aid removal. Butter paper also.

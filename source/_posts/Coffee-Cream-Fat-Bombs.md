@@ -4,6 +4,7 @@ date: 2017-12-13 21:03:46
 categories:
 - Desserts
 - Fat Bombs
+- Snacks
 tags:
 - Coffee
 - Cream Cheese
@@ -13,7 +14,7 @@ tags:
 - Butter
 ---
 
-These are rich, cool and delicious (if you love coffee like me!). The original recipe can be found [here](), and makes ~20 servings. 
+These are rich, cool and delicious (if you love coffee like me!). The original recipe can be found [here](https://ketodietapp.com/Blog/post/2015/01/23/Bulletproof-Fat-Bombs), and makes ~20 servings. 
 
 <!--more-->
 
@@ -27,6 +28,8 @@ These are rich, cool and delicious (if you love coffee like me!). The original r
 - 1/2 cup strong brewed coffee or caffeine-free chicory coffee (120 ml / 4 fl oz)
 - Optionally: 1 tsp rum extract
 
+
+---
 
 # Instructions
 1. Place the softened creamed coconut milk (or mascarpone cheese), butter or coconut oil, MCT oil and cocoa powder.

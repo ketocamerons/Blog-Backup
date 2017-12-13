@@ -5,11 +5,15 @@ categories:
 - Desserts
 - Biscuits/Cookies
 - Christmas Recipes
+- Snacks
 tags:
 - Coconut Flour
 - Almond Flour
 - Ginger
+- Cinnamon
 - Coconut Oil
+- Egg
+- Xantham Gum
 ---
 
 This one does have a few more ingredients than I usually muck around with, but it is worth it if you're a gingerbread nut like me. The original recipe can be found [here](https://alldayidreamaboutfood.com/classic-gingerbread-men-low-carb-and-gluten-free/), although I don't always make a whole batch (which makes ~50 cookies)!
@@ -39,6 +43,8 @@ This one does have a few more ingredients than I usually muck around with, but i
 - 1 1/2 tsp arrowroot starch OR 1/8 tsp xanthan gum
 - 1/4 cup lukewarm water (more if needed to thin out)
 
+
+---
 
 # Instructions
 1. For the cookies, preheat oven to 275F and line two baking sheets with parchment paper.

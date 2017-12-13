@@ -2,7 +2,15 @@
 title: Almond Flour Brownies
 date: 2017-12-13 23:38:22
 categories:
+- Desserts
+- Snacks
 tags:
+- Almond Flour
+- Flax Seed Meal
+- Butter
+- Egg
+- Chocolate
+- Cocoa
 ---
 
 I have made these brownies several times, 
@@ -22,6 +30,9 @@ Number of Servings: 8
 - 1/2 cup erythritol
 - a dash salt
 - 1/2 cup unsweetened cocoa powder (9 tbsp)
+
+
+---
 
 # Instructions
 1. Heat oven to 350 degrees.

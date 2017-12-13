@@ -28,6 +28,8 @@ These are yum, but very sweet. Adjust sweeteners to your taste. The original rec
 - 1/4 cup coconut oil, melted
 - 1 1/2 cup sugar free chocolate chips/chocolate, melted
 
+---
+
 # Instructions
 1. In a stand mixer blend the cream cheese and Swerve together until smooth.
 2. Add the cream, stevia, salt and raspberry extract, natural food coloring until combined well.

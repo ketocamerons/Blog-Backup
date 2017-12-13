@@ -25,6 +25,8 @@ tags:
 - 1 cup spinach, chopped
 - 1/2 cup sundried tomatoes
 
+---
+
 # Instructions
 1. In a large skillet add olive oil and cook the chicken on medium high heat for 3-5 minutes on each side or until brown on each side and cooked until no longer pink in center. Remove chicken and set aside on a plate.
 2. Add the heavy cream, chicken broth, garlic powder, italian seasoning, and parmesan cheese. 

@@ -22,6 +22,8 @@ This mash is easily better than mashed potatoes (in my opinion!). I've served it
 - 2 ounces dubliner or other sharp cheese
 - salt and pepper to taste
 
+---
+
 # Instructions
 1. Clean and trim the cauliflower, breaking it into medium sized pieces. 
 2. Place in a microwave safe bowl with 2 Tbsp of cream and 1 Tbsp of butter. Microwave, uncovered, on high for six minutes. 

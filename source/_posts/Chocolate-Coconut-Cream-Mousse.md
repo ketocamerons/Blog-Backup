@@ -22,6 +22,8 @@ This one is an overnighter, so don't wait until the day you want to serve it. Th
 - 2 tablespoons of sifted cocoa powder
 - optional: cocoa nibs as topping and/or fresh fruit 
 
+---
+
 # Instructions
 1. Refrigerate the can for a few hours or overnight and once it is well chilled, scoop out the cream that has set up at the top BUT don’t throw the liquid out…reserve this to use in your cooking or baking, it’s delicious in pancakes. 
 2. Place the solid cream in the bowl of your stand mixer, add your favorite sweetener,vanilla and a good quality cocoa powder and whip it up. 

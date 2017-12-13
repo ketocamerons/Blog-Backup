@@ -41,6 +41,9 @@ Cook Time: 25-28 minutes
 - 15 drops Liquid Stevia (or other sweetener to taste)
 - 1/2 tsp maple extract (or other flavouring, I've tried almond and vanilla) 
 
+---
+
+
 # Instructions
 1. Combine all the dry ingredients in a blender or food processor. Set aside.
 2. Combine butter, stevia and extract into a bowl and combine using a hand mixer. Add the eggs and combine again.

@@ -2,8 +2,8 @@
 title: Zucchini Fritters
 date: 2017-12-14 07:50:40
 categories:
-- Sides
-- Snacks
+- [Sides]
+- [Snacks]
 tags:
 - Zucchini
 - Coconut Flour

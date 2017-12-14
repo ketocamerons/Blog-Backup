@@ -2,7 +2,7 @@
 title: Chocolate Coconut Cream Mousse
 date: 2017-12-14 00:15:41
 categories:
-- Desserts
+- [Desserts]
 tags:
 - Chocolate
 - Coconut Milk

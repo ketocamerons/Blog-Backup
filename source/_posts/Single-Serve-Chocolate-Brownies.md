@@ -2,8 +2,8 @@
 title: Single-Serve Brownies
 date: 2017-12-14 00:13:47
 categories:
-- Desserts
-- Snacks
+- [Desserts]
+- [Snacks]
 tags:
 - Chocolate
 - Butter

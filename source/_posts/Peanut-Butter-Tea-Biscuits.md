@@ -2,9 +2,9 @@
 title: Peanut Butter Tea Biscuits
 date: 2017-12-13 20:30:36
 categories:
-- Desserts
-- Biscuits/Cookies
-- Snacks
+- [Desserts]
+- [Biscuits/Cookies]
+- [Snacks]
 tags:
 - Peanut
 - Almond

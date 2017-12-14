@@ -2,7 +2,7 @@
 title: Butter Chicken
 date: 2017-12-14 08:40:44
 categories:
-- Meals
+- [Meals]
 tags:
 - Chicken
 - Cream

@@ -2,8 +2,8 @@
 title: Mini Cheese Loaves
 date: 2017-12-14 07:55:49
 categories:
-- Snacks
-- Breads
+- [Snacks]
+- [Breads]
 tags:
 - Butter
 - Coconut Flour

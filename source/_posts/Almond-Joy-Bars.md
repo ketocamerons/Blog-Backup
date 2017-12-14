@@ -2,9 +2,9 @@
 title: Almond Joy Bars
 date: 2017-12-12 21:40:34
 categories:
-- Desserts
-- Fat Bombs
-- Snacks
+- [Desserts]
+- [Fat Bombs]
+- [Snacks]
 tags:
 - Almond
 - Coconut

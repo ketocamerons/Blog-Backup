@@ -2,8 +2,8 @@
 title: Coconut Flour Bread
 date: 2017-12-14 06:53:32
 categories:
-- Snacks
-- Breads
+- [Snacks]
+- [Breads]
 tags:
 - Coconut Flour
 - Egg

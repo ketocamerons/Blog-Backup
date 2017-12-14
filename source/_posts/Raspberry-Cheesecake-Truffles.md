@@ -2,8 +2,8 @@
 title: Raspberry Cheesecake Truffles
 date: 2017-12-13 21:57:54
 categories:
-- Desserts
-- Fat Bombs
+- [Desserts]
+- [Fat Bombs]
 tags:
 - Cream Cheese
 - Cream

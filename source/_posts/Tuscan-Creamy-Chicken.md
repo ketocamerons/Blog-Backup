@@ -2,7 +2,7 @@
 title: Tuscan Creamy Chicken
 date: 2017-12-14 00:02:39
 categories:
-- Meals
+- [Meals]
 tags:
 - Chicken
 - Cream

@@ -2,9 +2,9 @@
 title: Chocolate Peanut Butter Fudge
 date: 2017-12-13 23:28:34
 categories:
-- Desserts
-- Fat Bombs
-- Snacks
+- [Desserts]
+- [Fat Bombs]
+- [Snacks]
 tags:
 - Butter
 - Cream Cheese

@@ -2,9 +2,9 @@
 title: Coffee Cream Fat Bombs
 date: 2017-12-13 21:03:46
 categories:
-- Desserts
-- Fat Bombs
-- Snacks
+- [Desserts]
+- [Fat Bombs]
+- [Snacks]
 tags:
 - Coffee
 - Cream Cheese

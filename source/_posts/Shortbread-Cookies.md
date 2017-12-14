@@ -2,9 +2,9 @@
 title: Shortbread Cookies
 date: 2017-12-14 08:01:29
 categories:
-- Biscuits/Cookies
-- Snacks
-- Christmas Recipes
+- [Biscuits/Cookies]
+- [Snacks]
+- [Christmas Recipes]
 tags:
 - Butter
 - Almond Flour

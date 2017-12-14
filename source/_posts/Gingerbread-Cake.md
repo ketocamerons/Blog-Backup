@@ -2,8 +2,8 @@
 title: Gingerbread Cake
 date: 2017-12-14 11:25:08
 categories:
-- Desserts
-- Christmas Recipes
+- [Desserts]
+- [Christmas Recipes]
 tags:
 - Butter
 - Coconut Flour

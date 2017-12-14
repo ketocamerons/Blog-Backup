@@ -2,8 +2,8 @@
 title: Almond Flour Brownies
 date: 2017-12-13 23:38:22
 categories:
-- Desserts
-- Snacks
+- [Desserts]
+- [Snacks]
 tags:
 - Almond Flour
 - Flax Seed Meal

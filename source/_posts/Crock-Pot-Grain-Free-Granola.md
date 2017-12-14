@@ -2,8 +2,8 @@
 title: Crock Pot Grain-Free Granola
 date: 2017-12-14 00:12:46
 categories:
-- Desserts
-- Snacks
+- [Desserts]
+- [Snacks]
 tags:
 - Coconut Oil
 - Almond

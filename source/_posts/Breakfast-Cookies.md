@@ -2,8 +2,8 @@
 title: Breakfast Cookies
 date: 2017-12-14 08:32:48
 categories:
-- Biscuits/Cookies
-- Snacks
+- [Biscuits/Cookies]
+- [Snacks]
 tags:
 - Flax Meal
 - Pumpkin Seeds

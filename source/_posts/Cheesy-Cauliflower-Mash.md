@@ -2,7 +2,7 @@
 title: Cheesy Cauliflower Mash
 date: 2017-12-13 23:53:03
 categories:
-- Sides
+- [Sides]
 tags:
 - Cauliflower
 - Cheese

@@ -2,7 +2,7 @@
 title: Cheesy Zucchini Gratin
 date: 2017-12-14 09:10:06
 categories:
-- Sides
+- [Sides]
 tags:
 - Zucchini
 - Cream

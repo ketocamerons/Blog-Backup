@@ -2,10 +2,10 @@
 title: Gingerbread
 date: 2017-12-13 20:53:53
 categories:
-- Desserts
-- Biscuits/Cookies
-- Christmas Recipes
-- Snacks
+- [Desserts]
+- [Biscuits/Cookies]
+- [Christmas Recipes]
+- [Snacks]
 tags:
 - Coconut Flour
 - Almond Flour

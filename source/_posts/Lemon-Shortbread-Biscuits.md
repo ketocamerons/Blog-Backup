@@ -2,10 +2,10 @@
 title: Lemon Shortbread Biscuits
 date: 2017-12-13 20:45:02
 categories:
-- Desserts
-- Biscuits/Cookies
-- Pies/Tarts
-- Snacks
+- [Desserts]
+- [Biscuits/Cookies]
+- [Pies/Tarts]
+- [Snacks]
 tags:
 - Dairy Free
 - Lemon

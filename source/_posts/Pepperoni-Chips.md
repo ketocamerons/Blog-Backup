@@ -2,7 +2,7 @@
 title: Pepperoni Chips
 date: 2017-12-13 23:47:42
 categories:
-- Snacks
+- [Snacks]
 tags:
 - Pepperoni
 ---

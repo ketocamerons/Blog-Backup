@@ -2,8 +2,8 @@
 title: Double Chocolate Brownies
 date: 2017-12-14 08:17:19
 categories:
-- Desserts
-- Snacks
+- [Desserts]
+- [Snacks]
 tags:
 - Chocolate
 - Coconut Flour

@@ -2,8 +2,8 @@
 title: Vanilla Mug Cake
 date: 2017-12-13 23:24:15
 categories:
-- Desserts
-- Snacks
+- [Desserts]
+- [Snacks]
 tags:
 - Protein Powder
 - Coconut Flour

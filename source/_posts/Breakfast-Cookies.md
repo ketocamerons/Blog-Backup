@@ -33,7 +33,7 @@ Cook Time: 25-28 minutes
 - 1/4  cup raw sunflower seeds
 - 2 tbsp coconut flour
 - 2  tsp cinnamon 
-1/4 tsp pink Salt 
+- 1/4 tsp pink Salt 
 
 ## Wet Ingredients
 - 8 tbsp butter, room temperature

@@ -31,8 +31,8 @@ Cook Time: 20 minutes
 - 1.5 tbsp tomato paste
 - 2 cloves garlic
 - 1/4 medium onion
-- 1.5  tsp turmeric We use this!
-- 1 tsp ground ginger We use this!
+- 1.5  tsp turmeric
+- 1 tsp ground ginger
 - 1 tsp pink salt 
 - 3/4 tsp chili powder (leave this out if you're not a fan of spice!)
 - 1/2 tsp cinnamon 

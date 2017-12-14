@@ -23,9 +23,9 @@ This one does have a few more ingredients than I usually muck around with, but i
 
 # Ingredients
 ## Cookies:
-- 4 cups almond flour (Honeyville)
-- 1 cup Swerve Sweetener
-- 1/4 cup Coconut flour
+- 4 cups almond flour
+- 1 cup sweetener
+- 1/4 cup coconut flour
 - 2 tbsp ground ginger
 - 1 tbsp ground cinnamon
 - 2 tsp baking powder
@@ -38,7 +38,7 @@ This one does have a few more ingredients than I usually muck around with, but i
 - 1 tsp vanilla extract
 
 ## Royal Icing:
-- 1/2 lb powdered Swerve Sweetener
+- 1/2 lb powdered sweetener
 - 1 1/2 tbsp meringue powder
 - 1 1/2 tsp arrowroot starch OR 1/8 tsp xanthan gum
 - 1/4 cup lukewarm water (more if needed to thin out)

@@ -20,8 +20,8 @@ These are a real crowd-pleaser, and very morish. I usually make mine with peanut
 
 
 # Ingredients
-- 2 cups Almond Butter/Peanut Butter
-- 1/4 cup Coconut Flour
+- 2 cups almond butter/peanut butter
+- 1/4 cup coconut flour
 - 2 eggs
 - 1/2 cup erythritol 
 - 1/2 tsp salt

@@ -26,10 +26,10 @@ Passive Time: 25 minutes
 # Ingredients
 ## Gingerbread Cake
 - 1/4 cup browned butter 
-- 3/4 cup Coconut flour 
-- 3/4 cup  erythritol 
+- 3/4 cup coconut flour 
+- 3/4 cup erythritol 
 - 4 large eggs
-- 1/2 tsp Baking powder 
+- 1/2 tsp baking powder 
 - 1/2 tsp maple extract 
 - 2 tsp ground ginger 
 - 1 tsp ground cinnamon
@@ -37,10 +37,10 @@ Passive Time: 25 minutes
 
 ## Cream Cheese Frosting
 - 4 ounces cream cheese, room temperature
-- 1/4 cup butter, room temperature We use this!
-- 1/2 cup erythritol (confectioner) We Use This!
-- 1/2 tsp Vanilla Extract We use this!
-- 1/4 tsp Pink Salt We use this!
+- 1/4 cup butter, room temperature 
+- 1/2 cup erythritol (confectioner's - pulse granular erythritol in a grinder/food processor to achieve this) 
+- 1/2 tsp vanilla extract
+- 1/4 tsp pink salt 
 
 # Instructions
 ### Make the brown butter: 

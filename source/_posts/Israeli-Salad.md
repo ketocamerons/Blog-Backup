@@ -42,4 +42,3 @@ This was a hit at Christmas lunch, and for the next couple of days. Hint: don't 
 
 ### Notes
 *Tip: to prevent salad from getting too watery, scoop out the seeds from the tomatoes before chopping.
-**Photos updated April, 2017

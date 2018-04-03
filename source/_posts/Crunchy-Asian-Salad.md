@@ -8,7 +8,12 @@ categories:
 tags:
 - Vegetarian
 - Almond
-
+- Cabbage
+- Snow Pea
+- Coriander
+- Soy Sauce
+- Sesame Oil
+- Mayonnaise
 ---
 
 I made this in a pinch, looking for recipe ideas that don't require an oven or stovetop, and it definitely came through. The original recipe can be found [here](https://kalynskitchen.com/recipe-for-crunchy-napa-cabbage-asian/).
@@ -19,10 +24,10 @@ I made this in a pinch, looking for recipe ideas that don't require an oven or s
 
 ## Salad Ingredients
 
-- 1 small head Napa cabbage, thinly sliced then coarsely chopped (about 3-4 cups shredded cabbage)
-- 1 C thinly and diagonally-sliced sugar snap peas
+- 1 small head Napa cabbage (aka Chinese cabbage), thinly sliced then coarsely chopped (about 3-4 cups shredded cabbage)
+- 1 C thinly and diagonally-sliced sugar snap peas/snow peas
 - 1/4 cup sliced green onions (1-2 shoots)
-- 1/2 – 3/4 cup chopped cilantro (optional, but if you’re a cilantro fan I would use it)
+- 1/2 – 3/4 cup chopped coriander (optional)
 - 1/2 cup sliced almonds, toasted
 
 ## Dressing Ingredients
@@ -34,7 +39,7 @@ I made this in a pinch, looking for recipe ideas that don't require an oven or s
 - 1/4 tsp. sesame oil
 - 1/4 tsp. ground ginger puree
 - 1/4 tsp. (or more) sriracha sauce
-- 1/3 cup mayo or light mayo
+- 1/3 cup mayonnaise
 
 ------
 
